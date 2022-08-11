@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1026893076745",
+    "project_id": "cannyedgedetector",
+    "storage_bucket": "cannyedgedetector.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026893076745:android:c1e6b0f4e8c62064131bd8",
+        "android_client_info": {
+          "package_name": "com.example.cannyedge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026893076745-hur2se9qcgrgd12ts4733gdi9g95ba9e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOkhKIEFD3CfgynCJWYF40iQLuXyeJjw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1026893076745-hur2se9qcgrgd12ts4733gdi9g95ba9e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026893076745:android:51e1c5daccdb54a8131bd8",
+        "android_client_info": {
+          "package_name": "com.example.cannyedgedetector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026893076745-hur2se9qcgrgd12ts4733gdi9g95ba9e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOkhKIEFD3CfgynCJWYF40iQLuXyeJjw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1026893076745-hur2se9qcgrgd12ts4733gdi9g95ba9e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
